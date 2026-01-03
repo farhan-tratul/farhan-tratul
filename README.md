@@ -110,11 +110,9 @@ A passionate **Computer Science graduate** specializing in creating scalable web
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Tratul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_WEBSITE.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-farhan--tratul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhan-tratul)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Farhan_Tratul-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariar-farhan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://farhanshariar.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhan.profe@gmail.com)
 </div>
 
 ## 🎯 **Development Philosophy**
