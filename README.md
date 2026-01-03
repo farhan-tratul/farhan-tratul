@@ -4,13 +4,12 @@
 
 <div align="center">
   
-![Developer Activity](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+%26+Mobile+Applications;Creating+AI-Powered+Automation+Solutions;Developing+Revenue-Generating+SaaS+Products;Transforming+Ideas+into+Production-Ready+Apps)
+![Developer Activity](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Applications;Creating+AI+Automation+Solutions;Developing+SaaS+Products;Transforming+Ideas+into+Reality)
 
 </div>
 
 A passionate **Computer Science graduate** specializing in creating scalable web/mobile applications and AI-driven automation solutions. I transform complex problems into elegant, user-centric products that drive business growth and enhance productivity.
 
----
 
 ## 🛠️ **Technical Expertise**
 
@@ -21,17 +20,18 @@ A passionate **Computer Science graduate** specializing in creating scalable web
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </div>
 
 ### **Frameworks & Libraries**
 <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </div>
 
 ### **Tools & Platforms**
@@ -45,7 +45,6 @@ A passionate **Computer Science graduate** specializing in creating scalable web
 
 </div>
 
----
 
 ## 💼 **Featured Projects**
 
@@ -55,35 +54,62 @@ A passionate **Computer Science graduate** specializing in creating scalable web
       <h3 align="center">🚀 App Publish Helper</h3>
       <p align="center">Automated workflow for app publishing & testing</p>
       <p align="center">
+    <small>📊 <strong>Features:</strong> OCR scanning, expense categorization, reports</small>
+  </p>
+      <p align="center">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🎯 Close Testing Service</h3>
-      <p align="center">SaaS platform for real-user feedback & testing</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">🏢 Custom Web Solutions</h3>
-      <p align="center">Scalable web apps & business dashboards</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      </p>
-    </td>
+     <td width="33%" valign="top">
+  <h3 align="center">📱 Easy Slip</h3>
+  <p align="center">Cross-platform receipt scanner & expense tracker</p>
+  <p align="center">
+    <small>📊 <strong>Features:</strong> OCR scanning, expense categorization, reports</small>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </p>
+ <td width="33%" valign="top">
+  <h3 align="center">🤖 Crop Prediction AI</h3>
+  <p align="center">ML model for Bangladesh agriculture</p>
+  <p align="center">
+    <strong>ML Stack:</strong><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+  </p>
+  <p align="center">
+    <strong>Data Processing:</strong><br>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+  </p>
+</td>
   </tr>
 </table>
 
 <p align="center">
   <strong>Focus:</strong> Building revenue-generating SaaS products with rapid scalability
 </p>
+
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+
+![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan-tratul&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-tratul&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=farhan-tratul&theme=radical&hide_border=true&background=0D1117&dates=58A6FF)
+
+</div>
+
 ## 📫 **Let's Connect**
 
 <div align="center">
@@ -95,8 +121,6 @@ A passionate **Computer Science graduate** specializing in creating scalable web
 
 </div>
 
----
-
 ## 🎯 **Development Philosophy**
 
 <div align="center">
@@ -105,27 +129,3 @@ A passionate **Computer Science graduate** specializing in creating scalable web
 > Leveraging technology to create intelligent solutions that free up human potential for more creative and impactful work.
 
 </div>
-
----
-
-<div align="center">
-
-### ⚡ **Quick Stats**
-![Profile Views](https://komarev.com/ghpvc/?username=farhan-tratul&color=58a6ff&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/farhan-tratul?color=58a6ff&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/farhan-tratul?color=58a6ff&style=flat-square&label=Stars)
-![Contributions](https://img.shields.io/badge/Contributions-100%2B-success?style=flat-square)
-
-**"Code today, impact tomorrow."**
-
-</div>
-
----
-
-## 📊 **Weekly Development Breakdown**
-
-```text
-🌐 Web Development    ████████████░░░░░░░░░░   50%
-📱 App Development    ██████████░░░░░░░░░░░░   45%
-🤖 AI & Automation    ████░░░░░░░░░░░░░░░░░░   20%
-📚 Learning & R&D     █████░░░░░░░░░░░░░░░░░   25%
