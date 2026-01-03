@@ -102,10 +102,6 @@ A passionate **Computer Science graduate** specializing in creating scalable web
 
 <div align="center">
 
-![Farhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farhan-tratul&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farhan-tratul&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=farhan-tratul&theme=radical&hide_border=true&background=0D1117&dates=58A6FF)
 
 </div>
