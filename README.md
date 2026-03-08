@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Farhan
 
-### 🚀 **Full-Stack Developer | AI Enthusiast | SaaS Builder**
+### 🚀 **Flutter & Mobile App Developer | Play Store Launch Specialist | Founder @ app-publish-helper.com.**
 
 <div align="center">
   
