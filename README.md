@@ -55,8 +55,8 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🚀 App Publish Helper</h3>
-      <p align="center">Google Play closed testing & publishing service: 176+ client apps live</p>
+      <h3 align="center">🚀 <a href="https://play.google.com/store/apps/details?id=farhan.app_publish_helper">App Publish Helper</a></h3>
+      <p align="center">Google Play closed testing & publishing service: 176+ client apps live · app ⭐ 5.0 · 100+ downloads</p>
       <p align="center">
     <small>📊 <strong>Features:</strong> closed testing (12 testers / 14 days), Play Console policy fixes, publishing support</small>
   </p>
@@ -73,10 +73,10 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🕌 নামাজ ও রোযার সময়সূচী</h3>
-      <p align="center">Native Android prayer times app, live on Google Play</p>
+      <h3 align="center">🕌 <a href="https://play.google.com/store/apps/details?id=com.arifinzaman.salah_schedule">Salah Habit – Namaz Tracker</a></h3>
+      <p align="center">Native Android app on Google Play · ⭐ 4.8 · 100+ downloads</p>
       <p align="center">
-        <small>📊 <strong>Features:</strong> location-based prayer times, fasting schedule, Qibla finder, Quran reader</small>
+        <small>📊 <strong>Features:</strong> daily salah tracker, prayer and fasting times, Qibla compass, Quran reader</small>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
