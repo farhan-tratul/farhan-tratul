@@ -8,7 +8,7 @@
 
 </div>
 
-**Computer Engineering graduate** (East West University) building Android apps with **Flutter, Dart, BLoC and Firebase**. I've built and published 2 Flutter apps on Google Play, and through App Publish Helper I've helped **176+ client apps** pass closed testing and Play Store review with a 100% approval rate.
+**Computer Science & Engineering graduate** (East West University) building Android apps with **Flutter, Dart, BLoC and Firebase**. I've built and published 2 apps of my own on Google Play, and through App Publish Helper I've helped **176+ client apps** pass closed testing and Play Store review with a 100% approval rate.
 
 📌 **Open to full-time Flutter developer roles** · Dhaka, Bangladesh
 
@@ -74,13 +74,13 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🕌 নামাজ ও রোযার সময়সূচী</h3>
-      <p align="center">Prayer times app, live on Google Play</p>
+      <p align="center">Native Android prayer times app, live on Google Play</p>
       <p align="center">
         <small>📊 <strong>Features:</strong> location-based prayer times, fasting schedule, Qibla finder, Quran reader</small>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white" alt="XML"/>
       </p>
     </td>
     <td width="33%" valign="top">
