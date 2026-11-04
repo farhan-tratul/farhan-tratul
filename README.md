@@ -121,19 +121,18 @@
   </p>
     </td>
  <td width="33%" valign="top">
-  <h3 align="center">🤖 Crop Prediction AI</h3>
-  <p align="center">ML model for Bangladesh agriculture</p>
+  <h3 align="center">🤖 <a href="https://github.com/farhan-tratul/bangladesh-crop-recommendation">Crop Recommendation ML</a></h3>
+  <p align="center">Recommends a crop from soil and weather data; models compared with cross-validation and tuned with PSO and GridSearch</p>
   <p align="center">
     <strong>ML Stack:</strong><br>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   </p>
   <p align="center">
     <strong>Data Processing:</strong><br>
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib"/>
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn"/>
+
   </p>
 </td>
   </tr>
