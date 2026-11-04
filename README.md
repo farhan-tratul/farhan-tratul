@@ -2,7 +2,7 @@
 
 # Farhan Shariar Islam
 
-### Flutter Developer · Play Store Release Specialist · Founder of [App Publish Helper](https://app-publish-helper.com/)
+### Flutter Developer · Play Store Release Specialist · Founder of App Publish Helper
 
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+%7C+Dart+%7C+BLoC+%7C+Firebase;2+apps+live+on+Google+Play+(5.0+and+4.8);176%2B+client+apps+through+Play+Store+review;Open+to+full-time+Flutter+roles+in+Dhaka)
 
